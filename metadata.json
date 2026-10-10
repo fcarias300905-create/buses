@@ -1,0 +1,10 @@
+{
+  "name": "BusRuta Santa Ana",
+  "description": "Aplicación interactiva para identificar paradas, rutas de buses y recorridos del transporte público en Santa Ana, El Salvador.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
